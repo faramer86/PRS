@@ -1,5 +1,11 @@
 introduction
+essential-distributions
+references
 clumping-thresholding-ct
 prs-cs
+relevance
+explanation
+algorithm-wit-code-examples
+references-1
 sbayesr
 predictive-performance-metrics
