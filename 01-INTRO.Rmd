@@ -1,0 +1,34 @@
+# Introduction
+
+
+## Essential distributions {-}
+
+**Multivariate Normal Distribution (MND)**
+
+$$\begin{equation} MVN(\mu , \Sigma) \end{equation}$$
+
+**Generalized inverse Gaussian distribution (GIG)**
+
+$$\begin{equation} giG(\rho_1, \rho_2 , \chi) \end{equation}$$
+
+**Gamma distribution**
+
+$$\begin{equation} G(\alpha, \beta) \end{equation}$$
+
+**Inverse-gamma distribution**
+
+$$\begin{equation} iG(\alpha, \beta) \end{equation}$$
+
+
+
+## References: {-}
+
+1) Gelman, A. Prior distributions for variance parameters in hierarchical models. Bayesian Analysis 1,
+515–534 (2006)
+
+2) Polson, N. & Scott, J. Shrink globally, act locally: Sparse bayesian regularization and prediction.
+Bayesian Statistics 9, 501–538 (2010).
+
+
+
+

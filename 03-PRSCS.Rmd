@@ -1,1 +1,38 @@
 # PRS-CS
+
+```{r setup, include = FALSE}
+library(reticulate)
+use_python("C:\\Users\\nikit\\AppData\\Local\\Programs\\Python\\Python39\\python.exe")
+knitr::knit_engines$set(python = reticulate::eng_python)
+```
+
+## Relevance {-}
+
+## Explanation {-}
+
+In statistics, Gibbs sampling or a Gibbs sampler is a Markov chain Monte Carlo (MCMC) algorithm for obtaining a sequence of observations which are approximated from a specified multivariate probability distribution, when direct sampling is difficult.
+
+The Gibbs sampler involves the following steps in each Markov Chain Monte
+Carlo (MCMC) iteration:
+
+## Algorithm wit code examples: {-}
+
+GitHub link: https://github.com/getian107/PRScs
+
+We are interestred in two files `mcmc_gtb.py` and `gigrnd.py`.
+First one is a Markov Chain Monte Carlo (MCMC) sampler for polygenic prediction with continuous shrinkage (CS) priors (so, algorithm itself).
+Second one is a random variate generator for the generalized inverse Gaussian distribution from Devroye article.
+
+```{python}
+import os
+```
+
+
+## References: {-}
+1) Ge, T., Chen, CY., Ni, Y. et al. Polygenic prediction via Bayesian regression and continuous shrinkage priors. Nat Commun 10, 1776 (2019). https://doi.org/10.1038/s41467-019-09718-5
+
+2) Devroye, L. Random variate generation for the generalized inverse Gaussian distribution. Statistics and
+Computing 24, 239–246 (2014)
+
+3) Berisa, T. & Pickrell, J. Approximately independent linkage disequilibrium blocks in human popula-
+tions. Bioinformatics 32, 283–285 (2016)

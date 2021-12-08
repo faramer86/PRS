@@ -1,8 +1,11 @@
 --- 
-title: "Polygenic Risk Score: the definitive guide"
+title: "Polygenic Risk Score: clearly explained"
 author: "Kolosov Nikita"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Introduction
+# About this book {-}
+
+...
+
