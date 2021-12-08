@@ -1,7 +1,7 @@
 # Introduction
 
 
-## Essential distributions {-}
+## Essential distributions 
 
 **Multivariate Normal Distribution (MND)**
 
@@ -21,7 +21,7 @@ $$\begin{equation} iG(\alpha, \beta) \end{equation}$$
 
 
 
-## References: {-}
+## References: 
 
 1) Gelman, A. Prior distributions for variance parameters in hierarchical models. Bayesian Analysis 1,
 515–534 (2006)
